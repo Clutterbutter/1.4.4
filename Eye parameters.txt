@@ -5,3 +5,5 @@ Bottom left corner X 708 Y 1113
 Bottom right corner X 795 Y 1113
 
 Top right corner X 795 Y 942
+width 87
+height 171
